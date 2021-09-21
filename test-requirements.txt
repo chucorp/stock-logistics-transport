@@ -1,0 +1,1 @@
+odoo14-addon-stock_dock @git+https://github.com/OCA/stock-logistics-transport@refs/pull/63/head#subdirectory=setup/stock_dock
